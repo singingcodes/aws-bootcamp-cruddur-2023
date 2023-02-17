@@ -31,7 +31,7 @@
   - Architecture Implementation: In this phase, the enterprise architecture team implements the components of the enterprise architecture, such as installing hardware and software, migrating data, and integrating systems.
 
 - I was able to recreate the Cruddur Logical diagram. This was a bit challenging but this video https://www.youtube.com/watch?v=K6FDrI_tz0k&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=18 from Andrew Brown was very helful. Here's what my diagram looks like. I know it can be improved.
-![image desc](../_docs/assets/Architectural%20Diagram.png)
+![image desc](../_docs/assets/Architectural%20Diagram%20(1).png)
 
 
 
