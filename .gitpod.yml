@@ -19,3 +19,5 @@ vscode:
   extensions:
     - 42crunch.vscode-openapi
     - cweijan.vscode-postgresql-client2
+image:
+  file: .gitpod.Dockerfile
