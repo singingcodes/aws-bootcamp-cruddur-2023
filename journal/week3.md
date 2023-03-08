@@ -15,4 +15,7 @@
 # Verify JWT Token server side to serve authenticated API endpoints in Flask Application
 - Verified JWT tokens server-side to serve authenticated API endpoints in my Flask application
 
+-  Thanks to the video https://www.youtube.com/watch?v=tEJIeII66pY&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=40 I was able to undersatnd Amazon Cognito Security Best Practices
+- Amazon Cognito documentation https://aws.amazon.com/cognito/
+
 - I feel proud of my achievements this week, and I am excited to continue building secure and user-friendly authentication systems in my applications.
