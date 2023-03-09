@@ -1,5 +1,12 @@
 # Week 3 — Decentralized Authentication
 
+# What is Amazon Cognito
+- Amazon Cognito is a service that allows authentication authorization & user management for the web & mobile applications with users that it stores locally in the Amazon account
+- Amazon cognito user pool uses oauth authentication (google, facebook, github e.t.c). These are directories which dispense sign-up & sign-in choices to the application users.
+-  Amazon cognito Identity pool requires entry credentials from a user (grant access to AWS services). 
+   These enable you to grant your users access to other AWS services.
+    Both these components can either be used separately or together.
+
 # Provision via ClickOps a Amazon Cognito User Pool
 - I was able to provision a new Amazon Cognito User Pool using ClickOps
 
